@@ -414,6 +414,27 @@ html {
                           
                             /*footer end */
 
+/*feedback start*/
+.feedback a
+            {
+              text-decoration: none;
+              font-size: 35px;
+              color: #fff;
+              border: 1 px solid transparent;
+              background:linear-gradient(to right,#eb3349 , #f45c43);
+              border-radius: 3vh;
+              padding: 0 3vh;
+
+            }
+.feedback a:hover   
+                    {
+                      color: #000;
+                      text-decoration: none;
+                    }
+  
+
+/*feedback END*/
+
                         
                             /*scrolling button start*/
                         
