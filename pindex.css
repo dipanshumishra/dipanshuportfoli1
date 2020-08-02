@@ -35,7 +35,7 @@ html {
               height: 100vh;
               background-size:100% 100% ;
               background-image: url('Pimages/11111.jpg');
-              clip-path:polygon(100% 0,100% 100%,50% 70%,0 100%,0 0);
+              clip-path:polygon(100% 0,100% 100%,50% 80%,0 100%,0 0);
               background-repeat:no-repeat ;
               position: relative;
              filter: contrast(111%);
@@ -124,12 +124,7 @@ html {
         }
     
 
-        .header-section i 
-        {
-          font-size: 23vh;
-         color: red;
-         color:#2c3e50;
-        }
+        
          .abt 
        {
            background-color: #BDBDBD;
