@@ -12,6 +12,20 @@ html {
                      {
                       background-color: #fff!important;
                      }
+.navbar-toggler 
+                 {
+                   outline: none!important;
+                 }          
+.navbar-toggler i
+                    {
+                      color: #fff;
+                      outline: none;
+                    }                     
+
+.navbar-toggler i:hover
+                    {
+                      color: purple;
+                    }                     
 
 .logo img 
             {
